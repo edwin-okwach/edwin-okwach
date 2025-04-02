@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Edwin Okwach! 
+## 🚀 About Me
+- 🎓 **Computer Science & AI student** at University of Nottingham Malaysia
+- 🌱 Currently learning **web development** and **machine learning**
+- 🎮 Love playing **strategy & simulation games** (FM & Door Kickers 2)
+- 🏋️ Interested in **sports** and **Fitness**
+- ✨ Building my first **Notion-like app**
 
-<!--
-**edwin-okwach/edwin-okwach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ⚡ GitHub Stats
+![Edwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=edwin-okwach&show_icons=true&theme=dark)
 
-Here are some ideas to get you started:
+## 💻 Technologies & Skills
+- **Languages**: Python, HTML, CSS (learning JavaScript soon)
+- **Interests**: Frontend Development, AI & Machine Learning
+- **Tools**: VS Code, GitHub, Notion
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
